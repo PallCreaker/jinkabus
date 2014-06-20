@@ -1,0 +1,79 @@
+h1{
+	font-size:30px !important;
+}
+h2{
+	font-size:20px !important;
+}
+
+
+
+.text-align-center {
+  text-align: center;
+}
+.text-align-right {
+  text-align: right;
+}
+
+#header{
+background-color: rgba(9, 1, 1, 0.88);
+color: white;
+padding: 1px;
+letter-spacing: 0.5em;
+font-size: 21px;
+width: 100%;
+}
+#header #bus{
+	
+}
+
+#footer {
+position: relative;
+left:90px;
+width:180px;
+margin: 0 auto;
+}
+
+.two {
+position: relative;
+left: 14px;
+color: #6F7477;
+}
+
+#twitter {
+position: relative;
+
+}
+#facebook{
+	position: relative;
+}
+#line {
+margin-bottom: 8px;
+}
+
+
+.form {
+margin: 0 auto;
+width: 27%;
+margin-top: 36px;
+}
+
+#search{
+	clear: both;
+padding-top: 9px;
+}
+.button-radius .btn-info{
+	float: right;
+margin-right: 39px;
+}
+.button-radius .btn-warning{
+	float: right;
+margin-bottom: 19px;
+margin-top: 11px;
+}
+
+#last-date {
+width: 220px;
+color: red;
+margin: 0 auto;
+padding-top: 30px;
+}

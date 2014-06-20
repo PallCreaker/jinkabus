@@ -1,0 +1,57 @@
+.text-align-center {
+  text-align: center;
+}
+.text-align-right {
+  text-align: right;
+}
+
+#header{
+background-color: rgba(9, 1, 1, 0.88);
+color: white;
+padding: 1px;
+letter-spacing: 0.5em;
+font-size: 21px;
+width: 100%;
+}
+
+#footer {
+position: relative;
+left:90px;
+margin: 0 auto;
+width: 200px;
+}
+
+.two {
+position: relative;
+left: 14px;
+color: #6F7477;
+}
+
+#twitter {
+position: relative;
+
+}
+#facebook{
+	position: relative;
+
+
+}
+
+.form {
+margin: 0 auto;
+width: 27%;
+margin-top: 36px;
+}
+#news{
+	width: 330px;
+margin: 0 auto;
+padding-top: 25px;
+}
+
+#next_btn{
+	width: 55px;
+float: right;
+}
+#socialbutton {
+margin-top: 16px;
+}

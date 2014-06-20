@@ -1,0 +1,215 @@
+h1{
+	font-size:30px !important;
+}
+h2{
+	font-size:20px !important;
+}
+
+#timetable_center{
+	margin-left : auto ; margin-right : auto ;
+}
+#bus-time{
+	
+	border:solid 5px;
+	width: 200px;
+	margin-top: 33px;
+    margin-left: auto;
+margin-right: auto;
+    height:90px;
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #030303;
+	padding: 11px 20px;
+	background: -moz-linear-gradient(
+		top,
+		#00ccff 0%,
+		#ffffff 42%,
+		#ffffff 42%,
+		#0066ff);
+	background: -webkit-gradient(
+		linear, left top, left bottom, 
+		from(#00ccff),
+		color-stop(0.42, #ffffff),
+		color-stop(0.42, #ffffff),
+		to(#0066ff));
+	-moz-border-radius: 19px;
+	-webkit-border-radius: 19px;
+	border-radius: 19px;
+	border: 4px solid #000000;
+	-moz-box-shadow:
+		0px 1px 3px rgba(000,000,000,1),
+		inset 0px 0px 1px rgba(156,51,156,0.7);
+	-webkit-box-shadow:
+		0px 1px 3px rgba(000,000,000,1),
+		inset 0px 0px 1px rgba(156,51,156,0.7);
+	box-shadow:
+		0px 1px 3px rgba(000,000,000,1),
+		inset 0px 0px 1px rgba(156,51,156,0.7);
+	text-shadow:
+		0px -1px 0px rgba(000,000,000,0.4),
+		0px 1px 0px rgba(255,255,255,0.3);
+
+}
+.day {
+position: relative;
+float: right;
+top: -7px;
+}
+.gateway {
+position: relative;
+top: 13px;
+}
+
+.time div{
+	
+font-size: 35px;
+margin-top: -33px;
+position: relative;
+width: 90px;
+left: 61px;
+}
+
+#title_bus{
+	color:#DC143C;
+}
+#content #header{
+background-color: rgba(9, 1, 1, 0.88);
+color: white;
+padding: 1.1px;
+letter-spacing: 0.5em;
+font-size: 19px;
+width:100%;
+}
+h3{
+	margin: 3px;
+}
+
+
+#footer {
+position: relative;
+left: 180px;
+width: 180px;
+top:21px;
+margin: 0 auto;
+}
+.two {
+position: relative;
+left: 14px;
+color: #6F7477;
+}
+
+.direction {
+position: relative;
+left: 51px;
+width: 120px;
+top: -19px;
+}
+#twitter {
+position: relative;
+left: 62px;
+
+}
+#facebook{
+	position: relative;
+width:100px;
+left: 62px;
+}
+#line {
+margin-bottom: 8px;
+margin-left: 62px;
+}
+
+a:hover {
+color: #ECF3F8;
+text-decoration: none;
+}
+a {   /*bootstrapに反応してるため*/
+color: #D2DEE4!important;
+text-decoration: none;
+}
+
+.return {
+position: relative;
+top: 16px;
+left: 80px;
+width:60px;
+margin: 0 auto;
+}
+.worning {
+color: red;
+white-space: nowrap;
+margin-top: 28px;
+margin-left: -26px;
+}
+.worning2 {
+color: red;
+font-size: 22px;
+}
+table{
+	position:relative;
+	top: 25px;
+
+}
+
+th {
+	background: linear-gradient(to bottom, rgba(0,255,38,1) 0%,rgba(255,255,255,1) 42%,rgba(0,255,17,1) 100%);
+	
+	height: 33px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 235%;
+	color: #030303;
+	padding: 10px 10px;
+	background: -moz-linear-gradient(
+		top,
+		#00ff26 0%,
+		#ffffff 42%,
+		#ffffff 42%,
+		#00ff11);
+	background: -webkit-gradient(
+		linear, left top, left bottom, 
+		from(#00ff26),
+		color-stop(0.42, #ffffff),
+		color-stop(0.42, #ffffff),
+		to(#00ff11));
+	-moz-border-radius: 9px;
+	-webkit-border-radius: 9px;
+	border-radius: 9px;
+	border: 4px solid #000000;
+	-moz-box-shadow:
+		1px 1px 9px rgba(000,000,000,1),
+		inset 0px 0px 1px rgba(156,51,156,0.7);
+	-webkit-box-shadow:
+		1px 1px 9px rgba(000,000,000,1),
+		inset 0px 0px 1px rgba(156,51,156,0.7);
+	box-shadow:
+		1px 1px 9px rgba(000,000,000,1),
+		inset 0px 0px 1px rgba(156,51,156,0.7);
+	text-shadow:
+		0px -1px 0px rgba(000,000,000,1),
+		0px 1px 0px rgba(255,255,255,0.3);
+}
+td{
+	padding: 0px 11px;
+	font-size: 30px;
+}
+td .worning {
+width: 550px;
+position: relative;
+left: -124px;
+}
+caption {
+font-weight: 600;
+font-size: 26px;
+margin: 4px;
+}
+.table.table-striped {
+margin: 0 auto;
+}
+
+#last-date {
+width: 220px;
+color: red;
+margin: 0 auto;
+padding-top: 30px;
+}

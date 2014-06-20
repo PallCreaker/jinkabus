@@ -1,0 +1,60 @@
+@charset "utf-8";
+
+h1{
+	font-size:30px !important;
+}
+h2{
+	font-size:20px !important;
+}
+
+
+#header{
+background-color: rgba(9, 1, 1, 0.88);
+color: white;
+padding: 1px;
+font-size: 21px;
+margin-left: -20px;
+margin-right:-20px;
+}
+#header #bus{
+	
+}
+
+#footer {
+position: relative;
+
+left:90px;
+width:180px;
+}
+#line {
+margin-bottom: 8px;
+}
+
+
+.two {
+position: relative;
+left: 14px;
+color: #6F7477;
+}
+
+#twitter {
+position: relative;
+
+}
+#facebook{
+	position: relative;
+}
+
+#search{
+	clear: both;
+padding-top: 9px;
+}
+.button-radius .btn-info{
+	float: right;
+margin-right: 39px;
+}
+.button-radius .btn-warning{
+	float: right;
+margin-bottom: 19px;
+margin-top: 11px;
+}

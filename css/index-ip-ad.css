@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+
+#header{
+background-color: rgba(9, 1, 1, 0.88);
+color: white;
+padding: 1px;
+font-size: 21px;
+margin-left: -20px;
+margin-right:-20px;
+}
+#header #bus{
+	
+}
+
+#footer {
+position: relative;
+
+left:90px;
+width:180px;
+}
+
+.two {
+position: relative;
+left: 14px;
+color: #6F7477;
+}
+
+#twitter {
+position: relative;
+
+}
+#facebook{
+	position: relative;
+}
+
+#news{
+	width: 330px;
+margin: 0 auto;
+padding-top: 25px;
+}
